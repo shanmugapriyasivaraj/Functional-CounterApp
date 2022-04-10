@@ -1,0 +1,17 @@
+.counter-container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 75px;
+  background: rgb(6, 128, 155);
+  padding: 10px;
+  width: 200px;
+  margin-left: 275px;
+}
+.buttons {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
