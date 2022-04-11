@@ -3,15 +3,19 @@
   justify-content: center;
   display: flex;
   flex-direction: column;
-  margin-top: 75px;
+  margin-top: 225px;
   background: rgb(6, 128, 155);
   padding: 10px;
-  width: 200px;
-  margin-left: 275px;
+  width: 350px;
+  height: 300px;
+  margin-left: 600px;
+  font-size: 30px;
 }
 .buttons {
   padding: 10px;
   display: flex;
   justify-content: space-around;
   gap: 10px;
+  height: auto;
+  width: 100px;
 }
